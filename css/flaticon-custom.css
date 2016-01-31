@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/custom/flaticon.eot");
+    src: url("../fonts/custom/flaticon.eot#iefix") format("embedded-opentype"),
+    url("../fonts/custom/flaticon.woff") format("woff"),
+    url("../fonts/custom/flaticon.ttf") format("truetype"),
+    url("../fonts/custom/flaticon.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+    font-family: Flaticon;
+    font-size: 20px;
+    font-style: normal;
+    margin-left: 20px;
+}
+
+.flaticon-car221:before {
+    content: "\e000";
+}
