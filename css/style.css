@@ -72,12 +72,12 @@
 @import url('hover.css');
 @import url('bootstrap.min.css');
 @import url('font-awesome.min.css');
-@import url('vegas.css');
+/*@import url('vegas.css');*/
 @import url('flaticon.css');
-@import url('jquery.fancybox.css');
-@import url('owl.carousel.css');
-@import url('owl.theme.default.min.css');
-@import url('jquery.bxslider.css');
+/*@import url('jquery.fancybox.css');*/
+/*@import url('owl.carousel.css');*/
+/*@import url('owl.theme.default.min.css');*/
+/*@import url('jquery.bxslider.css');*/
 @import url('jquery.mCustomScrollbar.min.css');
 @import url('strocke-gap-icons-style.css');
 @import url('zebra-datepicker/default.css'); /*change css file name to change date picker style */
